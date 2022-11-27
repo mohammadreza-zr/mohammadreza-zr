@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Front-end Developer with a demonstrated history of working in the internet industry. Skilled in, ReactJS, <br>Front-end Development, Bootstrap, Cascading Style Sheets (CSS), SASS and also familiar with Back-end <br>and worked with NodeJS.
 
 
