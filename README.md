@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Mohammadreza and I'm a Frontend Developer.</h2>
+<h2 align="center">Hi 👋! My name is Mohammadreza and I'm a full-stack developer and my main expertise is front-end with React.</h2>
 
 ###
 
