@@ -1,5 +1,6 @@
 <h2 align="center">Hi 👋! My name is Mohammadreza</h2>
-<h2 align="center">I'm a full-stack developer and my main expertise is front-end with React.<h2/>
+<h3 align="center">I'm a full-stack developer and my main expertise is front-end with React.<h3/>
+
 ###
 
 <br clear="both">
